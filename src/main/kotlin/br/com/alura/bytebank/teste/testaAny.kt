@@ -13,7 +13,7 @@ fun testaAny() {
         complemento = "Alura",
         cep = "00000-0700"
     )
-
+    
     println(endereco.equals(enderecoNovo))
 
     println(endereco.hashCode())
